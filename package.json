@@ -1,0 +1,26 @@
+{
+  "name": "darkwing",
+  "version": "1.0.0",
+  "description": "Notify partners in crime if a rendezvous goes south.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pulp",
+    "fiction",
+    "revenge",
+    "notification",
+    "voice",
+    "from",
+    "grave"
+  ],
+  "author": "sunbee",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.1.2",
+    "mongoose": "^4.6.8",
+    "superagent": "^3.0.0",
+    "underscore": "^1.8.3"
+  }
+}
